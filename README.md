@@ -40,11 +40,11 @@ Your task is to build a grid of cards for a company's products. Here are the req
 
 ### Additional style requirements
 
-1. The card title has a solid 1px border that is `lightblue`.
-1. The title and product image are centered.
-1. Notice that the text for the description in the image is justified.
-1. The text for the product specification details and pricing details is bold.
-1. The availability element extends the full width of the card, with a dark grey background and yellow text.
+1. The card title has a solid 1px border that is `lightblue`. DONE
+1. The title and product image are centered. DONE
+1. Notice that the text for the description in the image is justified. 
+1. The text for the product specification details and pricing details is bold. DONE
+1. The availability element extends the full width of the card, with a dark grey background and yellow text. DONE
 
 ### Visual example
 
@@ -56,7 +56,7 @@ Here's an image that shows how the cards should appear. This visual example is a
 ### Challenges
 
 #### Challenge 1: Switch up the font!
-1. Pick font(s) from [Google Font](https://fonts.google.com/) and include them in your project. You can use them wherever you want, but uh, don't make it too ugly. 
+1. Pick font(s) from [Google Font](https://fonts.google.com/) and include them in your project. You can use them wherever you want, but uh, don't make it too ugly. DONE
 
 #### Challenge 2: Sold out.
 1. For items that are no longer available, place [this image](https://raw.githubusercontent.com/morecallan/css102-e6/master/images/soldOut.png) over top of the product card. **Note this is complex positioning, it is going to challenge you.**. What I mean by "over the product card" is ![Sold Out](https://raw.githubusercontent.com/morecallan/css102-e6/master/images/CSS102-Mockup.png)
